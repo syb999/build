@@ -26,6 +26,8 @@
 - Superuser rights (configured sudo or root access).
 - Make sure your system is up-to-date! Outdated Docker binaries, for example, can cause trouble.
 
+- linux mint 20.03
+
 For stable branch use `--branch=v25.02`
 
 ```bash
