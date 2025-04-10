@@ -7,6 +7,7 @@
 # https://github.com/armbian/build/
 #
 ARCH=armhf
+KERNEL_BTF="no"
 LINUXFAMILY=meson
 KERNEL_IMAGE_TYPE='uImage'
 KERNEL_INSTALL_TYPE='uinstall'
